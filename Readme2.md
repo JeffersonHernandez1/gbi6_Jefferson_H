@@ -12,3 +12,4 @@
 -Leer un documento
 -Generar un reporte
 -Enviar resultados a Github
+Control de la versión con github Desktop
